@@ -1,5 +1,6 @@
 {
   "type": "module",
+  "homepage": "https://mmcgovern574.github.io/procedure-prep-assistant",
   "scripts": {
     "dev": "node server.js --dev",
     "start": "node server.js",
